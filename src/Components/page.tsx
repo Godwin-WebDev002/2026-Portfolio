@@ -23,7 +23,7 @@ export default function Portfolio() {
         animate={{ opacity: 1 }}
         transition={{ duration: 1, delay: 0.2 }}
         id="home"
-        className="min-h-screen w-full relative flex flex-col items-center justify-center text-center px-4 pt-10"
+        className="min-h-screen w-full relative flex flex-col items-center justify-center text-center px-4 sm:pt-10"
       >
         <motion.div className="absolute w-full h-full z-0">
           <div className=" h-full w-full flex justify-center items-center">
