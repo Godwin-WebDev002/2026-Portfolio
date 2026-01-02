@@ -235,6 +235,7 @@ export default function Portfolio() {
               "CI/CD",
               "Git",
               "Agile Methodologies",
+              "SEO",
             ].map((skill) => (
               <div
                 key={skill}
