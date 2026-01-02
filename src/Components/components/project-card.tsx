@@ -24,7 +24,7 @@ export function ProjectCard({
         <img
           src={image}
           alt={title}
-          className="object-cover transition-transform duration-500 group-hover:scale-110"
+          className=" h-full object-cover transition-transform duration-500 group-hover:scale-110"
         />
         <div className=" hidden absolute inset-0 opacity-0 group-hover:opacity-100 transition-opacity sm:flex items-center justify-center gap-4 backdrop-blur-sm">
           <a
