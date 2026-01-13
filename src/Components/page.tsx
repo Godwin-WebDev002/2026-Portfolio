@@ -11,6 +11,7 @@ import OG from "./Asset/Profile.png";
 import Realest from "./Asset/RealestP.png";
 import Aurea from "./Asset/Aurea.png";
 import Ovulan from "./Asset/Ovulan.png";
+import Crypto from "./Asset/Crypto.png";
 
 export default function Portfolio() {
   return (
