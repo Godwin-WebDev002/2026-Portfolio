@@ -198,7 +198,7 @@ export default function Portfolio() {
               title="Real-Time Market Intelligence"
               description="A high-performance financial hub demonstrating mastery in state orchestration and fluid UI."
               tags={["React", "TypeScript", "Framer Motion", "RestAPI", "Redux", "Zustand"]}
-              githubUrl="https://github.com/Godwin-WebDev002/CRYPTOFLOW"
+              githubUrl="https://github.com/Godwin-WebDev002/CryptoFlow"
               liveUrl="https://cryptoflow-oses.netlify.app/"
               image={Crypto}
             />
