@@ -194,6 +194,14 @@ export default function Portfolio() {
           </div>
           <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-8">
             <ProjectCard
+              title="Real-Time Market Intelligence"
+              description="A high-performance financial hub demonstrating mastery in state orchestration and fluid UI."
+              tags={["React", "TypeScript", "Framer Motion", "RestAPI", "Redux", "Zustand"]}
+              githubUrl="https://github.com/Godwin-WebDev002/CRYPTOFLOW"
+              liveUrl="https://cryptoflow-oses.netlify.app/"
+              image={Crypto}
+            />
+            <ProjectCard
               title="Modern Real Estate Website"
               description="A sleek real estate platform with property listed and seemless user experience."
               tags={["React", "TypeScript", "Framer Motion"]}
