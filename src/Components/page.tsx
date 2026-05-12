@@ -128,7 +128,7 @@ export default function Portfolio() {
               <div className="flex flex-wrap gap-2">
                 {[
                   "HTML",
-                  "CSS",
+                  "CSS", "Next.Js",
                   "React",
                   "Tailwind",
                   "TypeScript",
