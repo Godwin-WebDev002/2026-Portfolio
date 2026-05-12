@@ -221,7 +221,7 @@ export default function Portfolio() {
             <ProjectCard
               title="Wrist Watch landing page"
               description="A sleek portal for luxury wrist watches, detailed specs of different kind."
-              tags={["React", "Framer Motion", "Tailwind"]}
+              tags={["Next.Js", "Framer Motion", "Tailwind"]}
               githubUrl="https://github.com/Godwin-WebDev002/Ovulan"
               liveUrl="https://ovulan.netlify.app/"
               image={Ovulan}
